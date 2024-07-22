@@ -1,0 +1,7 @@
+/backend/node_modules
+/backend/.env
+/backend/package-lock.json
+/backend/package.json
+/frontend/tailwind.config.js
+/frontend/package.json
+/frontend/package-lock.json
